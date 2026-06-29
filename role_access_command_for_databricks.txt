@@ -1,0 +1,10 @@
+Give Accesses From Shell
+-------------------------
+
+gcloud services enable compute.googleapis.com
+
+gcloud services enable container.googleapis.com
+
+gcloud services enable deploymentmanager.googleapis.com
+
+gcloud services enable iam.googleapis.com
