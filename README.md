@@ -9,3 +9,14 @@
 
 ## Ecosystem & AccessDatabricks 
 - operates across all major cloud providers and can be accessed directly or through specialized integrations, such as Azure Databricks. For individuals, hobbyists, or those looking to learn, Databricks provides a Databricks Free Edition to safely experiment with AI applications and data pipelines
+
+---
+
+# Databricks can feel overwhelming at first.
+
+<img width="1088" height="1190" alt="image" src="https://github.com/user-attachments/assets/27af5fc3-7de3-454d-9fa3-9a4e3b24a1af" />
+
+<img width="920" height="1034" alt="image" src="https://github.com/user-attachments/assets/66028257-006f-4486-a211-fa72b2801702" />
+
+---
+
